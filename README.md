@@ -7,4 +7,4 @@
 Exercício de Bootstrap desenvolvido a fim de consolidar conhecimentos obtidos sobre o Bootstrap e suas propriedades.
 O exercício é baseado na construção de uma landing page corporativa, explorando diversos estilos de sessão, como uma página inicial, cards de benefícios, modais, entre ourtos, de forma 100% responsiva.
 
-O projeto final pode ser acessado <a href="">aqui</a>!
+O projeto final pode ser acessado <a href="https://exercicio-bootstrap-eight.vercel.app/">aqui</a>!
