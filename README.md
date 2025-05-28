@@ -16,7 +16,7 @@ O exercício é baseado na construção de uma landing page corporativa, explora
 
 ![Captura de tela 2023-03-21 175334](https://user-images.githubusercontent.com/65993692/226738344-a8db7afe-a8dd-4f40-a634-e12da6496131.png)
 
-## 🚀 Como Usar
+## 🚀 Como rodar o projeto
 
 1. Clone o repositório:
 
