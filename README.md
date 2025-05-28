@@ -28,12 +28,11 @@ O exercício é baseado na construção de uma landing page corporativa, explora
 
 3. Abra o arquivo ```index.html``` em seu navegador:
 
-├── styles/
-
-│ └── main.css
-├── images/
-│ └── ... (imagens utilizadas)
-├── index.html
+├── styles/\
+│ └── main.css\
+├── images/\
+│ └── ... (imagens utilizadas)\
+├── index.html\
 └── README.md
 
 O deploy do projeto pode ser acessado <a href="https://exercicio-bootstrap-eight.vercel.app/">aqui</a>!
