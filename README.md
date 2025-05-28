@@ -5,7 +5,6 @@
 Exercício de Bootstrap desenvolvido a fim de consolidar conhecimentos obtidos sobre o Bootstrap e suas propriedades.
 O exercício é baseado na construção de uma landing page corporativa, explorando diversos estilos de sessão, como uma página inicial, cards de benefícios, modais, entre ourtos, de forma 100% responsiva.
 
-
 ## 🛠 Tecnologias Utilizadas
 
 - HTML5: linguagem de marcação usada para estruturar conteúdo na web, com novos elementos e APIs modernas.
@@ -24,7 +23,7 @@ O exercício é baseado na construção de uma landing page corporativa, explora
 
 2. Acesse o diretório do projeto:
 
-```cd nome-do-repositorio```
+```cd landingpage_bootstrap```
 
 3. Abra o arquivo ```index.html``` em seu navegador:
 
