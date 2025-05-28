@@ -20,7 +20,7 @@ O exercício é baseado na construção de uma landing page corporativa, explora
 
 1. Clone o repositório:
 
-```git clone https://github.com/seu-usuario/nome-do-repositorio.git```
+```git clone https://github.com/gbr-marques/landingpage_bootstrap```
 
 2. Acesse o diretório do projeto:
 
