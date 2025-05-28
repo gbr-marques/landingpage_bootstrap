@@ -29,6 +29,7 @@ O exercício é baseado na construção de uma landing page corporativa, explora
 3. Abra o arquivo ```index.html``` em seu navegador:
 
 ├── styles/
+
 │ └── main.css
 ├── images/
 │ └── ... (imagens utilizadas)
