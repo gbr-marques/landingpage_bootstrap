@@ -8,9 +8,9 @@ O exercício é baseado na construção de uma landing page corporativa, explora
 
 ## 🛠 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- [Bootstrap 5](https://getbootstrap.com/)
+- HTML5: linguagem de marcação usada para estruturar conteúdo na web, com novos elementos e APIs modernas.
+- CSS3: linguagem de estilo que define o visual das páginas, incluindo animações, layouts e responsividade.
+- Bootstrap 5: framework CSS com componentes prontos e responsivos para criar interfaces web rápidas e consistentes.
 
 ## 📸 Prévia
 
